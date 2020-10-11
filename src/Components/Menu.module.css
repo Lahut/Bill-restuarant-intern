@@ -1,0 +1,7 @@
+.imageMenu {
+    width: inherit;
+    height: inherit;
+    border-radius: 40px;
+    object-fit: cover;
+    cursor: pointer;
+}

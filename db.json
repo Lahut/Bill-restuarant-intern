@@ -1,0 +1,97 @@
+{
+    "categorys":[
+        {
+            "name": "food",
+            "thumbnailColor": "#e8505b",
+            "subCategory": [
+                {
+                    "name": "คั้วกลิ้ง",
+                    "menu": [
+                        {
+                            "id": "01F",
+                            "name" : "คั่วกลิ้งผักสด",
+                            "price" : 180,
+                            "pic" : "https://i.ibb.co/XpThmVV/101.jpg"
+                        },
+                        {
+                            "id": "02F",
+                            "name" : "คั่วกลิ้งผักสดไก่สับ",
+                            "price" : 180,
+                            "pic" : "https://i.ibb.co/XYTLn34/104.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "drink",
+            "thumbnailColor": "#f9d56e",
+            "subCategory": [
+                {
+                    "name": "ชาและกาแฟ",
+                    "menu": [
+                        {
+                            "id": "01D",
+                            "name" : "ชามะนาว",
+                            "price" : 100,
+                            "pic" : "https://i.ibb.co/fDcBdF3/243.jpg"
+                        },
+                        {
+                            "id": "02D",
+                            "name" : "ชานมเย็น",
+                            "price" : 100,
+                            "pic" : "https://i.ibb.co/DkVnj68/244.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "dessert",
+            "thumbnailColor": "#f3ecc2",
+            "subCategory": [
+                {
+                    "name": "แบบเย็น",
+                    "menu": [
+                        {
+                            "id": "01C",
+                            "name" : "เฉาก๊วยน้ำลำไย",
+                            "price" : 80,
+                            "pic" : "https://i.ibb.co/sqV2T3z/257.jpg"
+                        },
+                        {
+                            "id": "02C",
+                            "name" : "ลูกตาลลอยแก้ว",
+                            "price" : 80,
+                            "pic" : "https://i.ibb.co/TYxm2Dv/258.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "promotion",
+            "thumbnailColor": "#14b1ab",
+            "subCategory": [
+                {
+                    "name": "คั้วกลิ้ง",
+                    "menu": [
+                        {
+                            "id": "01P",
+                            "name" : "คั่วกลิ้งผักสด",
+                            "price" : 180,
+                            "pic" : "https://i.ibb.co/XpThmVV/101.jpg"
+                        },
+                        {
+                            "id": "02P",
+                            "name" : "คั่วกลิ้งผักสดไก่สับ",
+                            "price" : 180,
+                            "pic" : "https://i.ibb.co/XYTLn34/104.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+
+    ]
+}
